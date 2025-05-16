@@ -17,24 +17,17 @@ Se usarán herramientas como SQL Server, Python y Power BI
     - raw/ → Dataset original  
     - normalized/ → Tablas normalizadas  
     - output/ → Dataset para análisis  
-  - **docs/** → Documentación o PDFs  
-  - **powerbi/** → Archivos `.pbix` y capturas  
+  - **docs/** → Documentación  
+  - **powerbi/** → Archivos `.pbix`   
   - **sql/** → Scripts SQL 
-  - **DEVLOG.md** → Registro técnico del proyecto  
-  - **README.md** → Descripción general del proyecto  
+  - **DEVLOG.md** → Registro técnico 
+  - **README.md**   
 
 
 
-## Provisional
-## Avances actuales
 
-- ✔️ Dataset cargado y renombrado
-- ✔️ Tabla `FSI_NORMALIZADO` creada
-- ✔️ Encabezados traducidos
-- ✔️ Campo `rank` transformado a entero
-- ✔️ Columna `nivel` generada según rangos
 
-> 📌 Detalles técnicos disponibles en `DEVLOG.md`
+
 
 
 
