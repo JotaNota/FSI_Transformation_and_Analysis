@@ -1,9 +1,17 @@
 # Documentación del Proyecto FSI – Transformaciones en SQL Server
 
+- ✔️ Dataset cargado y renombrado
+- ✔️ Tabla `FSI_NORMALIZADO` creada
+- ✔️ Encabezados traducidos
+- ✔️ Campo `rank` transformado a entero
+- ✔️ Columna `nivel` generada según rangos
+
+
+
 ## 📌 Cargar dataset y renombrar tabla original
 - Renombrar la tabla `FSI_Raw$` a `FSI_RAW_` utilizando `sp_rename`
 
-## 📌 Crear copia de la tabla original
+## 📌 Crear copia
 - Crear la tabla `FSI_NORMALIZADO` usando `SELECT * INTO` desde `FSI_RAW_`
 
 ## 📌 Traducir encabezados
