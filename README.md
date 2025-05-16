@@ -15,11 +15,11 @@ Se usarán herramientas como SQL Server, Python y Power BI
 - FSI_Transformation_and_Analysis  
   - **data/**
     - raw/ → Dataset original  
-    - normalized/ → Tablas normalizadas desde SQL  
+    - normalized/ → Tablas normalizadas  
     - output/ → Dataset para análisis  
   - **docs/** → Documentación o PDFs  
   - **powerbi/** → Archivos `.pbix` y capturas  
-  - **sql/** → Scripts SQL paso a paso  
+  - **sql/** → Scripts SQL 
   - **DEVLOG.md** → Registro técnico del proyecto  
   - **README.md** → Descripción general del proyecto  
 
