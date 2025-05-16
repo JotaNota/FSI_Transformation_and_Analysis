@@ -12,17 +12,17 @@ Se usarán herramientas como SQL Server, Python y Power BI
 
 ## 🗂️  Estructura del proyecto
 
-/
-├── .git/ # Git
-├── data/ # Datos crudos y procesados
-│ ├── raw/ # Dataset original
-│ └── normalized/ # Tablas normalizadas desde SQL
-│ └── output/ # Dataset para análisis
-├── docs/ # Documentación o PDFs
-├── powerbi/ # .pbix
-├── sql/ # Scripts SQL
-├── DEVLOG.md # Registro técnico
-└── README.md # Descripción general del proyecto
+- FSI_Transformation_and_Analysis  
+  - **data/**
+    - raw/ → Dataset original  
+    - normalized/ → Tablas normalizadas desde SQL  
+    - output/ → Dataset para análisis  
+  - **docs/** → Documentación o PDFs  
+  - **powerbi/** → Archivos `.pbix` y capturas  
+  - **sql/** → Scripts SQL paso a paso  
+  - **DEVLOG.md** → Registro técnico del proyecto  
+  - **README.md** → Descripción general del proyecto  
+
 
 
 ## Provisional
