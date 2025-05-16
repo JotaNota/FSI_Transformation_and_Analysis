@@ -10,19 +10,19 @@ Se usarán herramientas como SQL Server, Python y Power BI
 
 ---
 
-## 🔧 Estructura del proyecto
+## 🗂️  Estructura del proyecto
 
 /
-├── .git/             # Git
-├── data/             # Datos crudos y procesados
-│   ├── raw/          # Dataset original
-│   ├── normalized/   # Tablas normalizadas desde SQL
-│   └── output/       # Dataset para análisis
-├── docs/             # Documentación o PDFs
-├── powerbi/          # .pbix 
-├── sql/              # Scripts SQL
-├── DEVLOG.md         # Registro técnico
-└── readme.md         # Descripción general del proyecto
+├── .git/ # Git
+├── data/ # Datos crudos y procesados
+│ ├── raw/ # Dataset original
+│ └── normalized/ # Tablas normalizadas desde SQL
+│ └── output/ # Dataset para análisis
+├── docs/ # Documentación o PDFs
+├── powerbi/ # .pbix
+├── sql/ # Scripts SQL
+├── DEVLOG.md # Registro técnico
+└── README.md # Descripción general del proyecto
 
 
 ## Provisional
