@@ -1,38 +1,28 @@
-# FSI Transformation and Analysis
-# 📊 FSI Dataset – Transformación y Análisis
 
-Este es un proyecto de limpieza, transformación y visualización de datos relacionados a el índice de Estados Frágiles (FSI). 
+# 📊 FSI Dataset – Transformation and Analysis  
 
-Elobjetivo es preparar el dataset para análisis descriptivos y visuales.
+This project focuses on cleaning, transforming, and visualizing data related to the Fragile States Index (FSI).
 
-Se usarán herramientas como SQL Server, Python y Power BI
+The goal is to prepare the dataset for descriptive and visual analysis on a **PowerBi** Dashboard.
 
+Tools such as SQL Server, Python, and Power BI will be used.
 
 ---
 
-## 🗂️  Estructura del proyecto
+## 🗂️ Project Structure 
 
 - FSI_Transformation_and_Analysis  
   - **data/**
-    - raw/ → Dataset original  
-    - normalized/ → Tablas normalizadas  
-    - output/ → Dataset para análisis  
-  - **docs/** → Documentación  
-  - **powerbi/** → Archivos `.pbix`   
+    - raw/   
+    - normalized/ → Normalized Tables  
+    - output/ → Dataset for analysis  
+  - **docs/** 
+  - **powerbi/** → `.pbix`   
   - **sql/** → Scripts SQL 
-  - **DEVLOG.md** → Registro técnico 
+  - **DEVLOG.md** → logs
   - **README.md**   
 
 
-
-
-
-
-
-
-
-
-##  Autor
-
+##  Author
 **JotaNota**  
 [github.com/JotaNota](https://github.com/JotaNota)
